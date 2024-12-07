@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+table {
+width: 50%;
+margin-bottom: 20px;
+border-collapse: collapse;
+}
+
+th, td {
+padding: 10px;
+text-align: center;
+}
+
+#table1 {
+width: 20%;
+}
+
+.table-title {
+font-weight: bold;
+text-decoration: underline;
+margin-bottom: 10px;
+}
+
+#table2-title {
+    margin-top: 10%; /* Adjust this value as needed */
+  }
